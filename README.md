@@ -10,8 +10,7 @@ const kallu = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS,Python, Java,C++,C],
   tools: [Pycham,MS Visual Studio],
-  Reach me out: [kalyanirajan0097@gmail.com],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  Reach me out: [kalyanikalluc@gmail.com]
 }
 ```
 ---
